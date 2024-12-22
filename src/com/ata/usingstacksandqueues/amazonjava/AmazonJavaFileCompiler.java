@@ -11,6 +11,7 @@ import java.util.List;
  * A compiler for Amazon's version of Java. The first check the compiler will make is if the curly braces in
  * the provided Java file are balanced. For every opening curly brace '{' in the file, the file must also contain a
  * closing curly brace, '}'. Further checks will be added at a later date.
+ * Solution 1
  */
 public class AmazonJavaFileCompiler {
 

@@ -9,6 +9,7 @@ import java.util.Stack;
  * opening and closing curly braces. This check does not perform any validation that the curly braces are in legal
  * locations in the file. [NOTE] Your implementation does not need to handle escaped curly braces within strings
  * literals.
+ * Solution1
  */
 public class BalancedCurlyBraceValidator {
 
